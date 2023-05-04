@@ -1,6 +1,7 @@
 # PWA-Text-Editor
 
 ## Description
+A Text Editor web application that allows the user to write their code in the text editor app.
 
 ## User Story
 AS A developer
@@ -33,3 +34,12 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
+
+## Credits
+-ChatGPT for understanding PWA and getting a better understanding of what needed to be done for this assignment. 
+
+-StackOverFlow for finding solutions to problems I encountered.
+
+-Reddit for asking questions about what was learned in this module because I was hospitalized for over a week and missed this unit entirely. 
+
+-Cole Roberts
